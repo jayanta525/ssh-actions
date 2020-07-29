@@ -2,7 +2,7 @@
 ## Acknowledgments
 
 - [Microsoft](https://www.microsoft.com)
-- [Microsoft Azure](https://azure.microsoft.com)
+- [Microsoft Azure](https://azur.microsoft.com)
 - [GitHub](https://github.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [tmate](https://github.com/tmate-io/tmate)
